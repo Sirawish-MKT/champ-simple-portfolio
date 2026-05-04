@@ -26,10 +26,14 @@ A minimalist, high-impact portfolio website built with a "Muji-inspired" aesthet
 
 ## 📂 Project Structure
 
-- `index.html`: Main content and bilingual data attributes.
-- `style.css`: Minimalist styling and responsive grid.
-- `script.js`: Language toggle logic and scroll animations.
-- `GEMINI.md`: Project documentation and status tracking.
+- **`/docs`**: Contains all public website files (HTML, CSS, JS).
+  - `index.html`: Main content and bilingual data attributes.
+  - `style.css`: Minimalist styling and responsive grid.
+  - `script.js`: Language toggle logic and scroll animations.
+- **`/Plan`**: Project management and planning documentation.
+  - `GEMINI.md`: Project documentation and status tracking.
+  - `port-web-plan.md`: The original implementation blueprint.
+- `README.md`: Project overview and repository guide.
 
 ## 🌐 Live Demo
 
