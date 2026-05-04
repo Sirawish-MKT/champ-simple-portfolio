@@ -28,4 +28,6 @@ This project is a professional, single-page portfolio for Sirawish "Champ" Wuvan
 - [x] Base HTML/CSS/JS files implemented.
 - [x] Muji-style aesthetics applied.
 - [x] English/Thai translation logic and content added.
+- [x] Git initialized and initial commit made.
+- [x] GitHub account identity configured on this machine.
 - [ ] Upload to GitHub and enable GitHub Pages.
